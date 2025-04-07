@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
