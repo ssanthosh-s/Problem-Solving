@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
