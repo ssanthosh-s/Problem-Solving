@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ssanthosh-s/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ssanthosh-s/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
 | ------- |
