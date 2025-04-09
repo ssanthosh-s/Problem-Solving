@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ssanthosh-s/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
