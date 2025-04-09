@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
