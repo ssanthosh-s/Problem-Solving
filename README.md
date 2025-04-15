@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 ## Simulation
 |  |
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
