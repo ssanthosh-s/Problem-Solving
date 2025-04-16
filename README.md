@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3830-find-closest-person](https://github.com/ssanthosh-s/Problem-Solving/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
