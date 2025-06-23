@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
