@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssanthosh-s/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ssanthosh-s/Problem-Solving/tree/master/2117-find-original-array-from-doubled-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ssanthosh-s/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssanthosh-s/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ssanthosh-s/Problem-Solving/tree/master/0338-counting-bits) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssanthosh-s/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
